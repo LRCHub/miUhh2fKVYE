@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "base_track": "Back To You",
+  "base_artist": "Selena Gomez",
+  "createdAt": "2026-03-04T09:27:02.448862Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Back To You",
+      "artist": "lil wayne",
+      "has_synced": true,
+      "path": "select/01_Back_To_You_lil_wayne.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Coming Back to You",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/02_Coming_Back_to_You_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Coming Back To You",
+      "artist": "Sylvan Esso",
+      "has_synced": true,
+      "path": "select/03_Coming_Back_To_You_Sylvan_Esso.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Right Back To You",
+      "artist": "Electric Youth",
+      "has_synced": true,
+      "path": "select/04_Right_Back_To_You_Electric_Youth.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Right Back To You (DVAS Remix Instrumental)",
+      "artist": "Electric Youth",
+      "has_synced": false,
+      "path": "select/05_Right_Back_To_You_(DVAS_Remix_Instrumental)_Electric_Youth.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Right Back To You (DVAS Remix)",
+      "artist": "Electric Youth",
+      "has_synced": false,
+      "path": "select/06_Right_Back_To_You_(DVAS_Remix)_Electric_Youth.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Right Back To You (Royski & Watts Reggatta Remix)",
+      "artist": "Electric Youth",
+      "has_synced": false,
+      "path": "select/07_Right_Back_To_You_(Royski_&_Watts_Reggatta_Remix)_Electric_Youth.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Right Back To You (Royski & WΔttϟ Remix Instrumental)",
+      "artist": "Electric Youth",
+      "has_synced": false,
+      "path": "select/08_Right_Back_To_You_(Royski_&_WΔttϟ_Remix_Instrumental)_Electric_Youth.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Right Back To You (Sarah Sarah Remix Instrumental)",
+      "artist": "Electric Youth",
+      "has_synced": false,
+      "path": "select/09_Right_Back_To_You_(Sarah_Sarah_Remix_Instrumental)_Electric_Youth.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Right Back To You (Sarah Sarah Remix)",
+      "artist": "Electric Youth",
+      "has_synced": false,
+      "path": "select/10_Right_Back_To_You_(Sarah_Sarah_Remix)_Electric_Youth.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Right Back To You (Instrumental)",
+      "artist": "Electric Youth",
+      "has_synced": false,
+      "path": "select/11_Right_Back_To_You_(Instrumental)_Electric_Youth.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Back to You",
+      "artist": "Robbie Nevil",
+      "has_synced": true,
+      "path": "select/12_Back_to_You_Robbie_Nevil.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Back to Beautiful",
+      "artist": "Sofia Carson feat. Alan Walker",
+      "has_synced": true,
+      "path": "select/13_Back_to_Beautiful_Sofia_Carson_feat._Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Back to Beautiful",
+      "artist": "Sofia Carson;Alan Walker",
+      "has_synced": true,
+      "path": "select/14_Back_to_Beautiful_Sofia_Carson;Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Back to Back Heartaches",
+      "artist": "Joe Diffie",
+      "has_synced": false,
+      "path": "select/15_Back_to_Back_Heartaches_Joe_Diffie.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Back To Life",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/16_Back_To_Life_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Back To Life",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/17_Back_To_Life_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Back to Never",
+      "artist": "Crystal McGrath",
+      "has_synced": true,
+      "path": "select/18_Back_to_Never_Crystal_McGrath.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Come Back To Bed (Acoustic)",
+      "artist": "Sean Stemaly",
+      "has_synced": false,
+      "path": "select/19_Come_Back_To_Bed_(Acoustic)_Sean_Stemaly.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Let's Get Back To Me And You",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/20_Let's_Get_Back_To_Me_And_You_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Lukenbach, Texas (Back to the Basics of Love)",
+      "artist": "Waylon Jennings",
+      "has_synced": false,
+      "path": "select/21_Lukenbach,_Texas_(Back_to_the_Basics_of_Love)_Waylon_Jennings.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Luckenbach, Texas (Back to the Basics of Love)",
+      "artist": "Waylon Jennings",
+      "has_synced": false,
+      "path": "select/22_Luckenbach,_Texas_(Back_to_the_Basics_of_Love)_Waylon_Jennings.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Luckenbach, Texas (Back to the Basics of Love)",
+      "artist": "Waylon Jennings",
+      "has_synced": true,
+      "path": "select/23_Luckenbach,_Texas_(Back_to_the_Basics_of_Love)_Waylon_Jennings.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "The Devil Comes Back to Georgia",
+      "artist": "Mark O'Connor",
+      "has_synced": false,
+      "path": "select/24_The_Devil_Comes_Back_to_Georgia_Mark_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "The Devil Comes Back to Georgia (Album Version)",
+      "artist": "Mark O Connor",
+      "has_synced": true,
+      "path": "select/25_The_Devil_Comes_Back_to_Georgia_(Album_Version)_Mark_O_Connor.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "You Always Come Back (To Hurting Me)",
+      "artist": "Johnny Rodriguez",
+      "has_synced": false,
+      "path": "select/26_You_Always_Come_Back_(To_Hurting_Me)_Johnny_Rodriguez.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Back to You",
+      "artist": "セレーナ・ゴメス",
+      "has_synced": false,
+      "path": "select/pl_01_Back_to_You_セレーナ・ゴメス.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Back To You (From 13 Reasons Why – Season 2 Soundtrack)",
+      "artist": "セレーナ・ゴメス",
+      "has_synced": false,
+      "path": "select/pl_02_Back_To_You_(From_13_Reasons_Why_–_Season_2_Soundtrack)_セレーナ・ゴメス.txt"
+    }
+  ]
+}
